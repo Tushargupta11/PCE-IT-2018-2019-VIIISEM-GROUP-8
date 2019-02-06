@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "834723604617",
+    "firebase_url": "https://poornimapayment-8f727.firebaseio.com",
+    "project_id": "poornimapayment-8f727",
+    "storage_bucket": "poornimapayment-8f727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834723604617:android:dcb2dc23c55cd70b",
+        "android_client_info": {
+          "package_name": "com.example.user.poornimapayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834723604617-198n49njel9tuc6a01alchcfqnqfut2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.poornimapayment",
+            "certificate_hash": "296ed4f815c7539f39984980ba17e239d39bdb2a"
+          }
+        },
+        {
+          "client_id": "834723604617-j7p3kbs4h3ou9jhnfp34uspb8nql9q54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI54u-Czr1exq6kExZqPv2gft9NkY1uFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834723604617-j7p3kbs4h3ou9jhnfp34uspb8nql9q54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

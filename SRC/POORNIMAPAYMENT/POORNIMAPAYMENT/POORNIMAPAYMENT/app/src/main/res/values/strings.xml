@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">POORNIMAPAYMENT</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Poornima Payment</string>
+    <string name="nav_header_subtitle">Poornimapayme11@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!--    <string name="title_activity_navigation_home">NavigationHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PROFILE</string>
+    <string name="nav_header_subtitle">poornima payments</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    &lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_home">Home</string>
+    <string name="nav_notif">Notification</string>
+    <string name="nav_account">Account</string>-->
+</resources>
